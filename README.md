@@ -25,4 +25,7 @@ This program uses image classification to detect which type of USB cable is in t
 14. Click load model
 15. make sure 'state' is live
 16. If not working, try clicking evaluate
+
+## Video
+
 [View a video explanation here](video link)
