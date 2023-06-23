@@ -21,9 +21,8 @@ This program uses image classification to detect which type of USB cable is in t
 10. Click the classification folder
 11. click on the `cableclassification.ipynb` file
 12. [Click the two arrows at the top of the screen](https://i.imgur.com/j1BchcY.png)
-13. Once the display opens, go to the file path area and type `/nvdli-nano/data/classification/final_project.pth`
-14. [Imgur](https://i.imgur.com/T0BFU2i.png)
-15. Click load model
-16. make sure 'state' is live
-17. If not working, try clicking evaluate
+13. [Once the display opens, go to the file path area and type `/nvdli-nano/data/classification/final_project.pth`](https://i.imgur.com/T0BFU2i.png)
+14. Click load model
+15. make sure 'state' is live
+16. If not working, try clicking evaluate
 [View a video explanation here](video link)
