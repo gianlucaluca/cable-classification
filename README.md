@@ -28,4 +28,4 @@ This program uses image classification to detect which type of USB cable is in t
 
 ## Video
 
-[View a video explanation here](video link)
+[Video Explanation](https://youtu.be/8AT4mmfRHiw)
